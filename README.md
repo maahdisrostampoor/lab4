@@ -5,7 +5,7 @@ This Terraform project is a module for creating aws_network.
 1. change the source of the module to point to this repository:
 2. 
 ```bash
-source = "git@github.com:maahdisrostampoor/lab-4.git"
+source = "git@github.com:maahdisrostampoor/lab4.git"
  ```
 2. Navigate to the `dev` or `prod` directory.
 3. Navigate to network directory.
